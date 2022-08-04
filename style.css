@@ -28,7 +28,7 @@ nav li{
 	margin-top: 20px;
 }
 .btn{
-    background-color: #f05f5c;
+    background-color: #9724ef;
     padding: 7px 28px;
     border-radius: 20px;
     border: none;
@@ -75,7 +75,7 @@ p.lead{
 	left:30px;
 }
 #latest .innertext span{
-	background: rgba(255,255,255,0.3);
+	background: rgba(255, 255, 255, 0.3);
     padding: 5px 16px;
     border-radius: 30px;
 }
@@ -231,7 +231,7 @@ footer ul{
     text-align: center;
 }
 #intro .contact .col-md-4 h1{
-	color:white;
+	color:rgb(255, 255, 255);
 }
 #intro .contact .col-md-4 p{
 	color:white;
